@@ -3,8 +3,8 @@ Assignment repository for UNT CSCE1015
 01 Open Source Discovery
 I forked the supermemory repository
 
-#EUID
+# EUID
 hs0874
 
-#Favorite Linux Command
+# Favorite Linux Command
 htop
